@@ -15,3 +15,9 @@ The LDR detects light intensity and switches the LED ON in darkness and OFF in d
 ## Applications
 - Street lighting
 - Outdoor lighting automation
+
+## ⚙️ Circuit Overview
+The system uses an LDR to sense ambient light and a BC547 transistor as a switch. When light intensity decreases, the transistor activates the LED, simulating automatic street lighting.
+
+## 📌 Status
+Completed basic prototype and documentation.
